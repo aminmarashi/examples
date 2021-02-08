@@ -7,7 +7,9 @@ const port = 8080;
 app.use(handleErrors);
 app.get("/status", isAuthorized, (req, res) => {
     const localTime = new Date().toLocaleTimeString();
-    res.status(200).send(`Hello: ${req.user.username}! Server time is ${localTime}`);
+    res.status(200).send(
+        `Hello: ${req.user.username}! Server time is ${localTime}`
+    );
 });
 
 app.get("*", (req, res) => {
