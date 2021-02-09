@@ -25,3 +25,4 @@ An HTTP server that returns whatever message posted to it as json
 # Inspirations
 
 - https://egghead.io/q/node
+- https://nodejs.org/api/
