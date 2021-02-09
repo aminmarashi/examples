@@ -10,7 +10,7 @@ A simple app that shows the server time and your username
 
 A chatroom that broadcasts a message to every connected client using WebSocket connections and node events
 
-## node/http-server
+## node/http
 
 An HTTP server that returns whatever message posted to it as json
 

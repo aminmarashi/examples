@@ -26,10 +26,7 @@ const req = http.request(
             data += chunk;
         });
         res.on("end", () => {
-            console.log(
-                "Data back from the server: %s",
-                JSON.parse(data)
-            );
+            console.log("Data back from the server: %s", JSON.parse(data));
         });
     }
 );
