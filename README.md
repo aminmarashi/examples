@@ -16,6 +16,8 @@ A chatroom that broadcasts a message to every connected client using WebSocket c
 
 ## node/mongo (TBD)
 
+## A simple expressjs implementation
+
 # Inspirations
 
 - https://egghead.io/q/node
