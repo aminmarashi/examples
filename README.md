@@ -28,11 +28,12 @@ An HTTP server that returns whatever message posted to it as json
 - https://nodejs.org/api/
 - https://nodejs.org/api/packages.html
 
-# Expressjs
+# Express
 
 - Routes and middlewares: https://expressjs.com/en/guide/using-middleware.html
 - Testing with jest and supertest: https://zellwk.com/blog/endpoint-testing/
 - Testing API https://www.postman.com/
+- CORS middleware https://www.npmjs.com/package/cors
 
 # MongoDB
 
