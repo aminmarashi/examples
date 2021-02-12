@@ -38,3 +38,4 @@ An HTTP server that returns whatever message posted to it as json
 
 - Free mongodb: mlab.com
 - Mongodb ODM for node: https://mongoosejs.com/
+- Mongoose API https://mongoosejs.com/docs/api.html#model_Model.findOne
