@@ -27,4 +27,13 @@ An HTTP server that returns whatever message posted to it as json
 - https://egghead.io/q/node
 - https://nodejs.org/api/
 - https://nodejs.org/api/packages.html
-- https://expressjs.com/en/guide/using-middleware.html
+
+# Expressjs
+
+- Routes and middlewares: https://expressjs.com/en/guide/using-middleware.html
+- Testing with jest and supertest: https://zellwk.com/blog/endpoint-testing/
+
+# MongoDB
+
+- Free mongodb: mlab.com
+- Mongodb for node: https://mongoosejs.com/
