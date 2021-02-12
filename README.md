@@ -36,4 +36,4 @@ An HTTP server that returns whatever message posted to it as json
 # MongoDB
 
 - Free mongodb: mlab.com
-- Mongodb for node: https://mongoosejs.com/
+- Mongodb ODM for node: https://mongoosejs.com/
